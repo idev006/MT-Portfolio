@@ -166,3 +166,7 @@
 
 ### Hard stop gate before every image
 Do not generate or submit artwork unless (1) each featured case has a checked problem/action/outcome/benefit story with no unverified invention; (2) all locked identity, headings and organization text are present; (3) blank dashed logo frame if a logo slot is included, no rendered unit logo; (4) compact header/footer, high content priority and readable type; (5) actual-vs-concept/prototype labels preserved. If any gate fails, revise copy and wireframe first. Document the comparison against Content Lock and latest owner correction in the handoff. No Design-as-Code layout renderer.
+
+## Full-book Communication Blueprint — 2026-10-17
+
+สำหรับเล่มผลการปฏิบัติราชการฉบับเต็มให้ใช้ [docs/full-book/README.md](full-book/README.md) และเอกสารในหมวดนั้นร่วมกับ SSOT. หลัก: หัวข้อบังคับครบ, ภาษาผู้บริหาร, ปัญหา→การดำเนินการ→ผล→ประโยชน์→ต่อยอด→หลักฐาน, กราฟิกสวยโดยไม่สร้างหลักฐานเท็จ, คำยืนยันล่าสุดของเจ้าของเหนือข้อความเก่าที่ขัดแย้งกัน. เอกสารนี้อยู่ในสถานะ Blueprint ระหว่าง Brainstorm ไม่ใช่ FINAL.
