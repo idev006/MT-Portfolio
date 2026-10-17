@@ -15,7 +15,7 @@
 - [ ] Thai digits throughout rendered visible copy (exclude URLs/file metadata)
 - [ ] Headings use icons, not numbering
 - [ ] Official portrait placeholder height:width ๔:๓
-- [ ] Logo placeholder thin dashed; no logo generated
+- [ ] No unit logo and no logo placeholder, per owner's latest instruction (2026-10-17)
 - [ ] Statue/building: original user photos or owner-approved AI conceptual illustrations inspired by them; label illustrations appropriately
 - [ ] AI illustrations are not misrepresented as authentic documentary evidence
 - [ ] Legible at ๑๐๐% A4 print size; no clipping or overflow
@@ -54,5 +54,12 @@
 - [ ] AI conceptual imagery may follow the uploaded reference composition without exact matching; do not treat it as a genuine evidence photo.
 - [ ] Page 1 displays exact name/rank/position with independently proofread Thai glyphs.
 - [ ] Page 1 has an unfilled vertical portrait placeholder (height:width = 4:3).
-- [ ] All pages that require a unit logo have an unfilled square with thin dashed outline.
+- [ ] No logo or logo placeholder anywhere on the three pages.
 - [ ] No missing-glyph squares or corrupted Thai text anywhere; block FINAL on any occurrence.
+
+## Superseding owner instructions (2026-10-17)
+- [ ] Use user-supplied `1000020850.png`, `1000020857.png`, `1000020742.jpg`, `1000020739.jpg` as appropriate for understated background/header/footer visuals.
+- [ ] Do not insert unit logos, emblem approximations or logo placeholders.
+- [ ] Export three separate A4 portrait files, not a horizontally combined triptych.
+- [ ] Main title is exactly `สรุปผลการปฏิบัติราชการ`, not `ผลงานที่ภาคภูมิใจ`.
+- [ ] Do not invent an official portrait, certificates, application screenshots, or unapproved quantified percentages.
