@@ -63,3 +63,9 @@
 - [ ] Export three separate A4 portrait files, not a horizontally combined triptych.
 - [ ] Main title is exactly `สรุปผลการปฏิบัติราชการ`, not `ผลงานที่ภาคภูมิใจ`.
 - [ ] Do not invent an official portrait, certificates, application screenshots, or unapproved quantified percentages.
+
+## Owner correction: prohibited screenshot examples (2026-10-17)
+- [ ] Do not use any building, conference hall, statue, monument or landmark appearing in the latest screenshot `1000021045.jpg`; the screenshot is a negative example, not reference art.
+- [ ] Do not use unrelated internet image search results as substitutes for the owner's actual locations.
+- [ ] No unit logo or logo placeholder.
+- [ ] Any actual place-related imagery must have explicit owner approval for the selected source; otherwise use abstract, non-location imagery.
