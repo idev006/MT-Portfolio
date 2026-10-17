@@ -1,6 +1,6 @@
 {
   "schema_version": "1.1.0",
-  "status": "DESIGN_STRATEGY_APPROVED_AS_DRAFT",
+  "status": "DESIGN_APPROVED_WITH_AI_ILLUSTRATION_POLICY_FINAL_PENDING_QA",
   "wireframe": "user-approved wireframe v1; visually compare with original before release",
   "page": {
     "format": "A4",
@@ -44,30 +44,42 @@
     "signature": {
       "reserve_area": true,
       "official_rule_check_required": true
+    },
+    "page1_identity": {
+      "name_and_position": true,
+      "portrait_placeholder": "height:width 4:3, unfilled",
+      "logo_placeholder": "thin dashed unfilled square in header"
     }
   },
   "assets": {
     "naresuan_statue": {
-      "policy": "only user-supplied reference image 1",
+      "policy": "Owner permits AI-created decorative illustrations inspired by supplied references; do not claim exact historical/photographic identity",
       "file_reference": "conversation attachment; register stable asset path before rendering",
       "allowed_for": "decorative identity only"
     },
     "building": {
-      "policy": "only user-supplied two building photographs",
+      "policy": "Owner permits AI-created decorative architectural imagery inspired by references; not factual documentation",
       "file_reference": "conversation attachments; register stable asset paths before rendering",
       "allowed_for": "decorative identity only"
     },
     "evidence_images": {
       "policy": "only verified authentic photographs/screenshots; cite provenance"
     },
-    "synthetic_evidence": false
+    "synthetic_evidence": false,
+    "synthetic_illustration": {
+      "owner_approved": true,
+      "scope": "decorative, conceptual, thematic illustrations inspired by references; exact visual fidelity not required",
+      "label": "ภาพประกอบ",
+      "prohibited": "Do not present AI output as authentic award, police action, operational screenshot, official portrait, or documentary evidence"
+    }
   },
   "typography": {
     "method": "editable_text_typesetting",
     "ai_rasterized_thai_text": false,
     "numerals": "thai",
     "font": "TH SarabunPSK where official rules require; verify availability and licensing",
-    "proofread_required": true
+    "proofread_required": true,
+    "render_quality_gate": "Inspect every visible Thai glyph for missing-glyph squares/tofu, shaping, ligatures and line wrapping; failed fonts block FINAL"
   },
   "export": {
     "files": [
@@ -136,7 +148,8 @@
       "ภาพหน้าจอผลงานจริงที่ตรวจสอบได้",
       "ภาพถ่ายภารกิจจริงที่ได้รับอนุญาต",
       "ไดอะแกรมกระบวนงานที่วาดจากข้อมูลที่ยืนยันแล้ว",
-      "ไอคอนเส้นเรียบที่ไม่สื่อว่าเป็นภาพเหตุการณ์จริง"
+      "ไอคอนเส้นเรียบที่ไม่สื่อว่าเป็นภาพเหตุการณ์จริง",
+      "ภาพประกอบเชิงแนวคิดที่สร้างด้วย AI และไม่สื่อว่าเป็นหลักฐานจริง"
     ],
     "per_case": {
       "preferred_visual_count": 1,
@@ -149,7 +162,7 @@
       "ให้ผลงานเด่นมีภาพใหญ่กว่าผลงานรองตามลำดับความสำคัญ",
       "สัดส่วนข้อความและภาพปรับตามความยาวเนื้อหา ห้ามบังคับภาพทุกชิ้นให้เท่ากัน",
       "รักษาพื้นที่ว่างและแนวจัดวางให้ดูสงบ สมดุล อ่านง่าย",
-      "ไม่ใช้ภาพ AI สร้างบุคคล ภารกิจ รางวัล หรือหน้าจอระบบปลอม",
+      "อนุญาต AI สำหรับภาพประกอบเชิงสร้างสรรค์เท่านั้น ห้ามแสดงบุคคล ภารกิจ รางวัล หรือหน้าจอที่ AI สร้างว่าเป็นหลักฐานจริง",
       "ห้ามใช้ภาพตกแต่งซ้ำจนกินพื้นที่สาระสำคัญ",
       "ห้ามตัดหรือย่อข้อเท็จจริงเพื่อใส่ภาพ",
       "ภาพที่ไม่มีแหล่งที่มาชัดเจนให้ใช้ไอคอนหรือเว้นช่องแทน"
