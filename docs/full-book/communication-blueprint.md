@@ -47,3 +47,12 @@ Supporting messages:
 ## 8. Governance
 ทุก claim มี evidence ID, source URL/path, status: ยืนยันหลักฐาน / เจ้าของยืนยัน / ศึกษา-ต้นแบบ / แนวทางต่อยอด / รอตรวจ
 คำกล่าวอ้างต้องผ่าน legal, personal-data, policy-date, Thai proofreading, and evidence gate ก่อน FINAL
+
+## Audit v2 — executive narrative controls (2026-10-17)
+- เพิ่มเป้าหมายระดับ ๕: ผู้อ่านใช้ผลงาน/หลักฐานประกอบการประเมินความพร้อมในการรับหน้าที่สูงขึ้นเอง ไม่ชี้นำว่าต้องประเมินว่าเหมาะสม
+- แยกผู้รับสาร ๓ แบบ: ผู้บริหารอ่านเร็ว / ผู้ประเมินตรวจรายละเอียด / ผู้ประสานงานค้นหลักฐาน
+- ระวังภาพจำว่าเป็นแฟ้มโปรแกรม IT: ให้แสดงหน้าที่ ความรับผิดชอบ การทำงานกับคน และประโยชน์ต่อราชการเทียบเคียงกับผลจากเทคโนโลยี
+- แยกกรณีศึกษาเป็นเจ้าของรายละเอียดหนึ่งบท และ cross-reference เมื่อปรากฏบทอื่น
+- แยกภาพหน้าจอจริงกับกราฟิกอธิบาย; หน้าเนื้อหาพื้นขาวเพื่ออ่านง่าย ไม่ใช้ทองเข้มทั้งเล่ม
+- ความสามารถที่ยืนยันใหม่: Microsoft Office/Excel/Macro; LINE Bot เพื่อสื่อสาร/รับฟังความคิดเห็น; AI สร้าง Infographic/One Page/Poster; สร้าง LINE Sticker. ตัวอย่างระบบ LINE Official ไม่ใช่หลักฐานว่าได้เปิดบริการทุกเมนูแล้ว
+- เอกสารรายละเอียด: [Audience Architecture](audience-and-message-architecture.md), [Book Architecture](book-architecture-proposal.md), [Chapter Map](chapter-message-map.md), [Gates](production-readiness-gates.md)
