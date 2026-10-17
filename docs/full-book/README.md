@@ -22,3 +22,8 @@
 
 ## Editorial Strategy (2026-10-17)
 - [Audience-first editorial sequencing](editorial-strategy.md) — ความสำคัญต่อการประเมิน ผลสัมฤทธิ์ หลักฐาน บทบาท และความชัดเจนในการสื่อสาร
+
+## Next-level book planning — 2026-10-17
+- [Detailed table of contents (draft)](detailed-table-of-contents.md) — สารบัญย่อยบท ๑–๑๓ และส่วนต้น/ท้าย
+- [Chapter content and visual plan (draft)](chapter-content-and-visual-plan.md) — mapping บท→ผลงาน→หลักฐาน→ภาพ→QC
+ทั้งสองฉบับเป็นร่างเพื่อพิจารณา ไม่ใช่สารบัญหรือ Word Master ที่อนุมัติแล้ว. ยืนยันการจัดกลุ่มเฉพาะข้อ ๑๐–๑๒ ใต้ “การเข้าร่วมกิจกรรม”; ข้อ ๑๓ แยก.
