@@ -155,7 +155,7 @@
     "content_lock_approved": true,
     "approved_by": "owner via conversation",
     "approved_at": "2026-10-17",
-    "scope": "Text content as owner-confirmed, with P3-TEAM expressly framed as concept only; not independent evidence or print-release approval"
+    "scope": "Owner-approved text as of 2026-10-17. P3-TEAM: actual coaching, knowledge transfer and discipline supervision; goal clarification, task division and cross-coverage remain management concepts. Approval is not independent evidence verification or final artwork approval."
   },
   "document_titles": {
     "main_title": "สรุปผลการปฏิบัติราชการ",
@@ -168,6 +168,7 @@
     "radio": "existing dataset reporting only; no new database and no disposal",
     "owner_metrics": "P1-191 and P1-COOP owner confirmed; supporting artifacts not yet reviewed",
     "source_priority": "approved titles/design contract > owner factual corrections > content-lock > old narrative drafts",
-    "original_pdf_note": "Existing official-format PDF examined for name/position and report context; do not expose private identifiers"
+    "original_pdf_note": "Existing official-format PDF examined for name/position and report context; do not expose private identifiers",
+    "handoff": "docs/handoff/START-HERE-NEXT-CHAT.md"
   }
 }
