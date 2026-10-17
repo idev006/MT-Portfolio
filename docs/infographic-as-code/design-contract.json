@@ -160,5 +160,38 @@
       "ไม่มีภาพล้น เบียดข้อความ หรือบิดเบือนข้อเท็จจริง",
       "มีการแยกภาพหลักฐานจริงออกจากภาพสัญลักษณ์ชัดเจน"
     ]
+  },
+  "document_titles": {
+    "status": "OWNER_APPROVED",
+    "main_title": "สรุปผลการปฏิบัติราชการ",
+    "subtitle": "ประกอบการพิจารณาแต่งตั้งข้าราชการตำรวจให้ดำรงตำแหน่งสูงขึ้น วาระประจำปี ๒๕๖๙",
+    "organization_header_exact": "ตำรวจภูธรภาค 6",
+    "page_titles": [
+      {
+        "id": "P1",
+        "title": "พัฒนาระบบงานและลดงานซ้ำ",
+        "main_title_prominence": "large",
+        "subtitle_visibility": "full",
+        "personal_identity_and_portrait": "include on page one; portrait height:width 4:3; modest size"
+      },
+      {
+        "id": "P2",
+        "title": "ใช้ข้อมูลสนับสนุนการกำกับ วางแผน และตัดสินใจ",
+        "main_title_prominence": "compact",
+        "subtitle_visibility": "optional compact",
+        "header_height_percent": "8-10"
+      },
+      {
+        "id": "P3",
+        "title": "พัฒนาคน พัฒนางาน และพัฒนาตนเองอย่างต่อเนื่อง",
+        "main_title_prominence": "compact",
+        "subtitle_visibility": "optional compact",
+        "header_height_percent": "8-10"
+      }
+    ],
+    "key_message_policy": "Key message is not subtitle; use as distinct supporting line on page one",
+    "logo": "empty unfilled square dashed placeholder, no generated unit logo",
+    "numerals": "Thai numerals in all visible text except explicitly owner-required organization name ตำรวจภูธรภาค 6",
+    "title_lock_approved": true
   }
 }
