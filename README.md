@@ -1,3 +1,5 @@
+> **GOVERNING POLICY:** [Document-First Project Governance](docs/DOCUMENT-FIRST-GOVERNANCE.md) — documents lead all project actions. Design-as-Code is cancelled for infographic artwork.
+
 # MT-Portfolio
 
 SSOT (Single Source of Truth) สำหรับโครงการจัดทำเอกสารประกอบการประเมินและความก้าวหน้าในตำแหน่ง ประจำปี พ.ศ. ๒๕๖๙
