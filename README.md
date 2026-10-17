@@ -1,3 +1,5 @@
+> **GOVERNING POLICY:** [Document-First Project Governance](docs/DOCUMENT-FIRST-GOVERNANCE.md) — documents lead all project actions. Design-as-Code is cancelled for infographic artwork.
+
 # MT-Portfolio
 
 SSOT (Single Source of Truth) สำหรับโครงการจัดทำเอกสารประกอบการประเมินและความก้าวหน้าในตำแหน่ง ประจำปี พ.ศ. ๒๕๖๙
@@ -60,3 +62,7 @@ SSOT (Single Source of Truth) สำหรับโครงการจัด�
 - ทุกข้อความใน One Page และสรุป ๓ หน้า ต้องมีหลักฐานในเล่มใหญ่หรือ Primary Source ที่เหมาะสม
 - ภาคผนวกใช้เป็นพื้นที่หลักฐานเต็ม เช่น ใบประกาศ หนังสือคำสั่ง ภาพกิจกรรม และภาพหน้าจอระบบ
 - ใช้ถ้อยคำที่ตรวจสอบได้ เช่น “ช่วยลดขั้นตอน”, “ทำให้ข้อมูลพร้อมใช้”, “สนับสนุนการตัดสินใจ” แทนการใส่เปอร์เซ็นต์ที่ไม่มีหลักฐาน
+
+## เล่มฉบับเต็ม — Production Blueprint (2026-10-17)
+
+เอกสารกำกับการจัดทำเล่มเต็ม: [docs/full-book/README.md](docs/full-book/README.md). เป็นชุดอ้างอิงผูกกับ SSOT และไม่ทดแทนหัวข้อบังคับใน Word ต้นฉบับ

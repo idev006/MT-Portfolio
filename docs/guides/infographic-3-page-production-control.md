@@ -1,3 +1,5 @@
+> ⚠️ **LEGACY GUIDE — superseded for layout and logo by `docs/infographic-as-code/CREATIVE-PRODUCTION-WORKFLOW-V2.md`, current `design-contract.json` and current `content-lock.json`. Do not apply old logo placeholder, repeated card layouts or Dashboard ๑๙๑ on Page 1. Retained solely as audit history.**
+
 # MT-Portfolio — Infographic Production Control v1.0
 
 สถานะ: Production Guide / ใช้ควบคุมการสร้าง Infographic ส่วนที่ ๒ จำนวน ๓ หน้า (ไม่ใช่หลักฐานยืนยันผลงาน)
