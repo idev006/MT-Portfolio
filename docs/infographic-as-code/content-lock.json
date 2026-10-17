@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
   "document": "สรุปผลการปฏิบัติราชการ",
-  "status": "DRAFT_EVIDENCE_REVIEW_PENDING",
+  "status": "OWNER_CONTENT_APPROVED_EVIDENCE_AND_VISUAL_QA_PENDING",
   "numeric_script": "thai",
   "subject": {
     "name": "ร้อยตำรวจเอก จิรัฎฐ์ธรณ์ จิตศิริ",
     "position": "รอง สว.ฝอ.๖ บก.อก.ภ.๖",
-    "verification": "verify_against_official_personnel_document"
+    "verification": "OWNER_CONFIRMED_OFFICIAL_DOCUMENT_CHECK_RECOMMENDED"
   },
   "key_message": "คิดวิเคราะห์ วางระบบ พัฒนาคน และใช้เทคโนโลยีอย่างเหมาะสม เพื่อให้งานรวดเร็ว เป็นระบบ และเกิดประโยชน์ต่อราชการ",
   "pages": [
@@ -20,7 +20,8 @@
           "heading": "แนวคิดการทำงาน",
           "text": "เมื่อพบงานที่มีขั้นตอนซ้ำ ใช้เวลามาก หรือข้อมูลกระจัดกระจาย ข้าฯ เริ่มจากการวิเคราะห์กระบวนงานและพิจารณาวิธีปรับปรุงให้กระชับและเป็นระบบ",
           "evidence": "docs/drafts/executive-summary-3-pages.md",
-          "status": "owner_narrative_review"
+          "status": "OWNER_CONFIRMED_EVIDENCE_PENDING",
+          "owner_confirmation": "เจ้าของผลงานยืนยันข้อความส่วนอื่นตามข้อเสนอ 2026-10-17; การยืนยันโดยเจ้าของผลงานไม่ใช่การตรวจสอบหลักฐานอิสระ"
         },
         {
           "id": "P1-191",
@@ -51,39 +52,44 @@
           "heading": "ระบบสายตรวจฉลามบก",
           "text": "ผลงานในช่วงปฏิบัติราชการที่กองบังคับการปราบปราม: พัฒนาระบบติดตามและประเมินผลการออกตรวจของสายตรวจรถยนต์",
           "evidence": "docs/drafts/executive-summary-3-pages.md",
-          "status": "verify_original_project_and_role"
+          "status": "OWNER_CONFIRMED_EVIDENCE_PENDING",
+          "owner_confirmation": "เจ้าของผลงานยืนยันข้อความส่วนอื่นตามข้อเสนอ 2026-10-17; การยืนยันโดยเจ้าของผลงานไม่ใช่การตรวจสอบหลักฐานอิสระ"
         },
         {
           "id": "P2-IPB",
           "heading": "IPB",
           "text": "ผลงานจากหน่วยเดิม: พัฒนาเว็บแอปพลิเคชันจัดเก็บข้อมูลพิกัด สถานที่ และวัตถุ พร้อมแสดงผลบนแผนที่ เพื่อประกอบการวางแผนรักษาความปลอดภัย",
           "evidence": "docs/drafts/executive-summary-3-pages.md",
-          "status": "verify_original_project_and_role"
+          "status": "OWNER_CONFIRMED_EVIDENCE_PENDING",
+          "owner_confirmation": "เจ้าของผลงานยืนยันข้อความส่วนอื่นตามข้อเสนอ 2026-10-17; การยืนยันโดยเจ้าของผลงานไม่ใช่การตรวจสอบหลักฐานอิสระ"
         },
         {
           "id": "P2-DASH",
           "heading": "Dashboard ๑๙๑",
           "text": "จัดเตรียมและแสดงข้อมูลเพื่อช่วยติดตามและวิเคราะห์งาน ๑๙๑",
           "evidence": "docs/drafts/executive-summary-3-pages.md",
-          "status": "verify_project_evidence"
+          "status": "OWNER_CONFIRMED_EVIDENCE_PENDING",
+          "owner_confirmation": "เจ้าของผลงานยืนยันข้อความส่วนอื่นตามข้อเสนอ 2026-10-17; การยืนยันโดยเจ้าของผลงานไม่ใช่การตรวจสอบหลักฐานอิสระ"
         },
         {
           "id": "P2-RADIO",
           "heading": "รายงานครุภัณฑ์วิทยุโทรคมนาคม",
           "text": "ประมวลผลข้อมูลที่มีอยู่และจัดทำรายงานตามโจทย์ผู้บังคับบัญชา เช่น ยี่ห้อ รุ่น หน่วยที่ครอบครอง และจำนวน",
           "evidence": "owner factual correction; docs/guides/infographic-3-page-production-control.md",
-          "status": "owner_corrected_verify_report",
+          "status": "OWNER_CONFIRMED_EVIDENCE_PENDING",
           "prohibitions": [
             "ห้ามกล่าวว่าได้พัฒนาฐานข้อมูลวิทยุ",
             "ห้ามอ้างการจำหน่ายครุภัณฑ์"
-          ]
+          ],
+          "owner_confirmation": "เจ้าของผลงานยืนยันข้อความส่วนอื่นตามข้อเสนอ 2026-10-17; การยืนยันโดยเจ้าของผลงานไม่ใช่การตรวจสอบหลักฐานอิสระ"
         },
         {
           "id": "P2-SUPPORT",
           "heading": "สนับสนุนภารกิจของหน่วย",
           "text": "จัดทำรายงานและสื่อประกอบการบริหาร สนับสนุนงาน IT ระบบภาพและเสียง และร่วมภารกิจตรวจประเมินศูนย์ ๑๙๑",
           "evidence": "docs/drafts/executive-summary-3-pages.md",
-          "status": "verify_specific_missions"
+          "status": "OWNER_CONFIRMED_EVIDENCE_PENDING",
+          "owner_confirmation": "เจ้าของผลงานยืนยันข้อความส่วนอื่นตามข้อเสนอ 2026-10-17; การยืนยันโดยเจ้าของผลงานไม่ใช่การตรวจสอบหลักฐานอิสระ"
         }
       ],
       "closing": "เปลี่ยนข้อมูลและกระบวนงานให้เป็นเครื่องมือที่ผู้บังคับบัญชาใช้กำกับ วางแผน และตัดสินใจได้ง่ายขึ้น"
@@ -96,38 +102,43 @@
         {
           "id": "P3-TEAM",
           "heading": "พัฒนาคนและทีมงาน",
-          "text": "ชี้แจงเป้าหมาย แบ่งหน้าที่ สอนงาน ส่งเสริมการทำงานทดแทนกัน และกำชับวินัยและจรรยาบรรณ",
-          "evidence": "docs/drafts/executive-summary-3-pages.md",
-          "status": "owner_narrative_review"
+          "text": "แนวคิดในการพัฒนาทีมงานของข้าฯ คือ การชี้แจงเป้าหมาย การแบ่งหน้าที่ การสอนงาน และการส่งเสริมให้บุคลากรสามารถทำงานทดแทนกันได้",
+          "evidence": "คำยืนยันเจ้าของผลงานในบทสนทนา 2026-10-17",
+          "status": "OWNER_CONFIRMED_AS_MANAGEMENT_CONCEPT_NOT_IMPLEMENTATION",
+          "owner_confirmation": "เจ้าของผลงานระบุชัดว่า การสอนงาน การแบ่งงาน และการทำงานทดแทนกันได้ เป็นแนวคิดของตน ไม่ใช่ผลการดำเนินงานที่ยืนยันว่าเกิดขึ้นแล้ว"
         },
         {
           "id": "P3-PROTOTYPE",
           "heading": "ศึกษาและพัฒนางานต้นแบบ",
           "text": "ศึกษาและทดลองพัฒนาระบบต้นแบบ MTSecurity / AI CCTV / Computer Vision และการประยุกต์ใช้ Generative AI",
           "evidence": "docs/drafts/executive-summary-3-pages.md",
-          "status": "verify_prototype_artifacts",
-          "label": "ศึกษา/ต้นแบบ"
+          "status": "OWNER_CONFIRMED_EVIDENCE_PENDING",
+          "label": "ศึกษา/ต้นแบบ",
+          "owner_confirmation": "เจ้าของผลงานยืนยันข้อความส่วนอื่นตามข้อเสนอ 2026-10-17; การยืนยันโดยเจ้าของผลงานไม่ใช่การตรวจสอบหลักฐานอิสระ"
         },
         {
           "id": "P3-LEARNING",
           "heading": "การพัฒนาตนเอง",
           "text": "ศึกษาอบรมองค์ความรู้ด้าน AI, AI Governance, Network/IoT, PDPA และ Cyber Safety ตามหลักสูตรและเกียรติบัตรที่มี",
           "evidence": "docs/drafts/executive-summary-3-pages.md",
-          "status": "verify_certificates"
+          "status": "OWNER_CONFIRMED_EVIDENCE_PENDING",
+          "owner_confirmation": "เจ้าของผลงานยืนยันข้อความส่วนอื่นตามข้อเสนอ 2026-10-17; การยืนยันโดยเจ้าของผลงานไม่ใช่การตรวจสอบหลักฐานอิสระ"
         },
         {
           "id": "P3-ITA",
           "heading": "การได้รับการยอมรับ — ITA ๒๕๖๗",
           "text": "ผู้ปฏิบัติงานดีเด่น ทำงานเชิงรุก ในการขับเคลื่อนการประเมินคุณธรรมและความโปร่งใสของสถานีตำรวจ ประจำปีงบประมาณ พ.ศ. ๒๕๖๗",
           "evidence": "docs/drafts/executive-summary-3-pages.md",
-          "status": "verify_exact_award_wording"
+          "status": "OWNER_CONFIRMED_EVIDENCE_PENDING",
+          "owner_confirmation": "เจ้าของผลงานยืนยันข้อความส่วนอื่นตามข้อเสนอ 2026-10-17; การยืนยันโดยเจ้าของผลงานไม่ใช่การตรวจสอบหลักฐานอิสระ"
         },
         {
           "id": "P3-ETHICS",
           "heading": "คุณธรรม จริยธรรม — สำนักงานตำรวจแห่งชาติ ๒๕๖๙",
           "text": "ได้รับประกาศเกียรติคุณจากสำนักงานตำรวจแห่งชาติ ในฐานะข้าราชการตำรวจที่ประพฤติปฏิบัติดีเยี่ยม ตามประมวลจริยธรรมข้าราชการตำรวจและกฎ ก.ตร. ว่าด้วยจรรยาบรรณของตำรวจ ประจำปีงบประมาณ พ.ศ. ๒๕๖๙",
           "evidence": "docs/evidence/police-hq-certificate-2569.md",
-          "status": "evidence_transcription_verify_image"
+          "status": "OWNER_CONFIRMED_EVIDENCE_PENDING",
+          "owner_confirmation": "เจ้าของผลงานยืนยันข้อความส่วนอื่นตามข้อเสนอ 2026-10-17; การยืนยันโดยเจ้าของผลงานไม่ใช่การตรวจสอบหลักฐานอิสระ"
         }
       ],
       "closing": "ข้าฯ มุ่งพัฒนาความสามารถในการคิดวิเคราะห์ วางระบบ พัฒนาคนและกระบวนงาน ตลอดจนเลือกใช้ข้อมูล ความรู้ และเทคโนโลยีอย่างเหมาะสม เพื่อให้เกิดผลสัมฤทธิ์และประโยชน์ต่อหน่วยงานและทางราชการอย่างต่อเนื่อง"
@@ -141,9 +152,10 @@
     "ประหยัดงบประมาณเป็นตัวเลขที่ไม่มีหลักฐาน"
   ],
   "approval": {
-    "content_lock_approved": false,
-    "approved_by": null,
-    "approved_at": null
+    "content_lock_approved": true,
+    "approved_by": "owner via conversation",
+    "approved_at": "2026-10-17",
+    "scope": "Text content as owner-confirmed, with P3-TEAM expressly framed as concept only; not independent evidence or print-release approval"
   },
   "document_titles": {
     "main_title": "สรุปผลการปฏิบัติราชการ",
