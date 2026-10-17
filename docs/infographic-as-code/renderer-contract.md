@@ -10,7 +10,7 @@
 - **Content owner** approves factual copy and claim scope.
 - **Renderer** chooses spacing, icons, card treatment and image cropping within contract.
 - Renderer **must not** alter factual claims, units, dates, metrics, attribution or award wording.
-- Missing evidence or approved asset is a blocking issue; do not substitute stock or AI-generated evidence.
+- Missing authentic evidence must not be replaced with AI-generated evidence. Owner-approved AI illustrations are allowed for decorative or conceptual roles, visibly distinct from proof; absence of authentic proof remains a verification issue.
 - Render all Thai as editable typeset text, never as generative image text.
 
 ## Algorithm
@@ -43,7 +43,14 @@ Read the project's SSOT, the three-page narrative, and all files in `docs/infogr
 - The three pages summarize **ผลการปฏิบัติราชการ**, not a technical portfolio or personal CV.
 - Preserve the five thematic groups and their key messages from `design-contract.json`; show each case as ภารกิจ/ปัญหา → บทบาท/การปฏิบัติ → ผลที่เกิดขึ้น → ประโยชน์ต่อราชการ.
 - Use one purposeful visual per case by default; at most two where genuine evidence requires it. Prefer verified actual screenshots/photos, then verified process diagrams, then understated line icons.
-- Balance whitespace, text and visuals by significance; do not force equal-sized grids or overdecorate. No synthetic depictions of police operations, people, awards or app screens.
-- Never shrink or alter locked factual text just to make room for an illustration. If no authentic asset is available, use a neutral icon or a clearly labeled empty placeholder in DRAFT.
+- Balance whitespace, text and visuals by significance; do not force equal-sized grids or overdecorate. AI decorative/conceptual illustrations inspired by user references are permitted; never imply an AI scene, award or screenshot is an authentic record.
+- Never shrink or alter locked factual text just to make room for an illustration. If no authentic asset is available, use an understated icon, clearly identified AI conceptual illustration, or labeled placeholder in DRAFT.
 - Repeated cases across pages must be consolidated to avoid wasted space. Ethics awards are not technology achievements; prototypes must be visibly labeled.
 - These strategy/layout instructions are approved by the owner; factual content approval and evidence gates remain pending.
+
+## Owner approval: AI illustration policy (2026-10-17)
+- The owner authorizes AI-created visual illustrations inspired by supplied references; exact likeness is not required.
+- This does **not** authorize fabricated proof, official portrait, award document, or real-system screenshot.
+- Use source-of-truth text typesetting independent from AI-generated image pixels.
+- Final review must detect Thai tofu/missing glyph squares; the previous draft exhibited font rendering defects.
+- Page 1 must visibly contain rank/name/position, an empty 4:3 vertical portrait slot, and a thin dashed empty square for the unit logo.
