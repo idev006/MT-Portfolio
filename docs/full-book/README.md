@@ -35,3 +35,5 @@
 - [Word Production Specification](word-production-spec.md) — ข้อกำหนด Word A4, editable headings, การแทรกภาพและตรวจการเรนเดอร์ทุกหน้า
 - [Traceability & Consistency Audit](traceability-and-audit.md) — ตรวจหัวข้อ→เรื่อง→ผลงาน→หลักฐาน→ภาพ และปัญหาที่ยังรอแก้
 **Status:** Governance docs prepared for owner review; Word Master and evidence verification remain pending. Latest directive: group ONLY 10–12 under activities; 13 separate.
+
+- [Asset selection & infographic decisions](asset-selection-and-infographic-plan.md) — image candidates, illustrative-graphic choices, inspection status (candidate only)
