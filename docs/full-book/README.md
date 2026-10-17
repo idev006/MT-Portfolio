@@ -30,3 +30,8 @@
 
 ## Content mind map
 - [Mind Map Architecture](mind-map-architecture.md) — แผนผังสามระดับ Book / Chapter / Evidence ใช้ตรวจหัวข้อบังคับ ความสัมพันธ์ข้ามบท และหลักฐาน ไม่เปลี่ยนลำดับหัวข้อบังคับ
+
+## Production preflight (2026-10-17)
+- [Word Production Specification](word-production-spec.md) — ข้อกำหนด Word A4, editable headings, การแทรกภาพและตรวจการเรนเดอร์ทุกหน้า
+- [Traceability & Consistency Audit](traceability-and-audit.md) — ตรวจหัวข้อ→เรื่อง→ผลงาน→หลักฐาน→ภาพ และปัญหาที่ยังรอแก้
+**Status:** Governance docs prepared for owner review; Word Master and evidence verification remain pending. Latest directive: group ONLY 10–12 under activities; 13 separate.
