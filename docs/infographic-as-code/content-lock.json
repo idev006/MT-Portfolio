@@ -26,15 +26,17 @@
           "id": "P1-191",
           "heading": "ผลงานเด่น — รายงาน ๑๙๑",
           "text": "พัฒนาเครื่องมือช่วยจัดทำรายงาน ๑๙๑ ลดเวลาจากประมาณ ๑ ชั่วโมง เหลือไม่เกิน ๑ นาที",
-          "evidence": "docs/drafts/executive-summary-3-pages.md",
-          "status": "quantitative_claim_needs_original_proof"
+          "evidence": "คำยืนยันโดยตรงของเจ้าของผลงานในบทสนทนาปัจจุบัน; ควรแนบหลักฐานทดสอบหรือภาพการทำงานประกอบ",
+          "status": "OWNER_CONFIRMED_AWAITING_SUPPORTING_ARTIFACT",
+          "owner_confirmation": "ผู้รับการประเมินยืนยันผลการปฏิบัติจริง: จากประมาณ ๑ ชั่วโมง เหลือไม่เกิน ๑ นาที"
         },
         {
           "id": "P1-COOP",
           "heading": "ผลงานเด่น — งานเอกสารสหกรณ์",
           "text": "ประมวลผลเอกสารหรือใบเสร็จมากกว่า ๒๐๐ หน้า ภายในไม่เกิน ๑ นาที",
-          "evidence": "docs/drafts/executive-summary-3-pages.md",
-          "status": "quantitative_claim_needs_original_proof"
+          "evidence": "คำยืนยันโดยตรงของเจ้าของผลงานในบทสนทนาปัจจุบัน; ควรแนบหลักฐานทดสอบหรือภาพการทำงานประกอบ",
+          "status": "OWNER_CONFIRMED_AWAITING_SUPPORTING_ARTIFACT",
+          "owner_confirmation": "ผู้รับการประเมินยืนยันผลการปฏิบัติจริง: เอกสารมากกว่า ๒๐๐ หน้า ภายในไม่เกิน ๑ นาที"
         },
         {
           "id": "P1-DASH",
