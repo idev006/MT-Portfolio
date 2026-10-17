@@ -56,3 +56,6 @@ Supporting messages:
 - แยกภาพหน้าจอจริงกับกราฟิกอธิบาย; หน้าเนื้อหาพื้นขาวเพื่ออ่านง่าย ไม่ใช้ทองเข้มทั้งเล่ม
 - ความสามารถที่ยืนยันใหม่: Microsoft Office/Excel/Macro; LINE Bot เพื่อสื่อสาร/รับฟังความคิดเห็น; AI สร้าง Infographic/One Page/Poster; สร้าง LINE Sticker. ตัวอย่างระบบ LINE Official ไม่ใช่หลักฐานว่าได้เปิดบริการทุกเมนูแล้ว
 - เอกสารรายละเอียด: [Audience Architecture](audience-and-message-architecture.md), [Book Architecture](book-architecture-proposal.md), [Chapter Map](chapter-message-map.md), [Gates](production-readiness-gates.md)
+
+## Editorial Strategy — binding design proposal
+ให้อ่าน [editorial-strategy.md](editorial-strategy.md) ร่วมกับ Audience และ Chapter Map; หลักวัตถุดิบ–ผู้รับสาร–วิธีปรุง–จัดเสิร์ฟ–ตรวจคุณภาพ; คงหัวข้อบังคับ และไม่บิดเบือนข้อเท็จจริงเพื่อเอาใจผู้อ่าน
