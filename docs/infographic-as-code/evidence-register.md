@@ -5,8 +5,8 @@
 | ID | Claim / fact | Current source | Required check | Status |
 |---|---|---|---|---|
 | IDENTITY | ชื่อ/ตำแหน่ง | production guide / certificate | Personnel record, current appointment | VERIFY |
-| P1-191 | ประมาณ ๑ ชั่วโมง → ไม่เกิน ๑ นาที | narrative draft | Original report workflow and comparable time test / owner's documented confirmation | VERIFY |
-| P1-COOP | มากกว่า ๒๐๐ หน้า ภายในไม่เกิน ๑ นาที | narrative draft | Actual sample, run log, documented confirmation | VERIFY |
+| P1-191 | ประมาณ ๑ ชั่วโมง → ไม่เกิน ๑ นาที | เจ้าของผลงานยืนยันโดยตรงในบทสนทนา | แนบผลทดสอบหรือภาพการทำงานจริงเพื่อรองรับการซักถาม | OWNER CONFIRMED / ARTIFACT PENDING |
+| P1-COOP | มากกว่า ๒๐๐ หน้า ภายในไม่เกิน ๑ นาที | เจ้าของผลงานยืนยันโดยตรงในบทสนทนา | แนบตัวอย่างเอกสารหรือบันทึกการประมวลผลจริง | OWNER CONFIRMED / ARTIFACT PENDING |
 | P1-DASH / P2-DASH | Dashboard ๑๙๑ | narrative draft | Real screenshots, data source, user role | VERIFY |
 | P2-SHARK | ฉลามบก / หน่วยเดิม | narrative draft | Project evidence and unit/time attribution | VERIFY |
 | P2-IPB | IPB / หน่วยเดิม | narrative draft | Project evidence and unit/time attribution | VERIFY |
