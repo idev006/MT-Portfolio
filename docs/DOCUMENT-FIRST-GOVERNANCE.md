@@ -34,7 +34,7 @@ When files conflict, stop the affected aspect, document the conflicting passages
 ## Nonnegotiable design rules
 - AI-led Art Direction; no design-as-code workflow or generative fake evidence.
 - Three separate A4 portrait infographic images at >=2480×3508 px.
-- No logos or logo placeholders; page 1 has an empty portrait slot at height:width 4:3.
+- No actual/generated unit logos. Owner's latest instruction authorizes an OPTIONAL empty thin dashed logo placeholder for later manual insertion; this supersedes earlier 'no logo placeholder' policy. Page 1 has an empty portrait slot at height:width 4:3.
 - Thai numerals in visible copy except the exact approved `ตำรวจภูธรภาค 6` heading.
 - Page 1 = work improvement, report ๑๙๑ and cooperative document processing; page 2 = information-driven work (incl. Dashboard ๑๙๑); page 3 = people, learning, prototypes and ethics with actual-vs-concept distinctions.
 - Owner-confirmed metrics remain marked owner confirmed / independent artifacts pending when appropriate.
@@ -42,3 +42,7 @@ When files conflict, stop the affected aspect, document the conflicting passages
 
 ## Definition of done
 **Document-compliant** is not the same as visually excellent. FINAL requires both factual/evidence release gates and meaningful, independent visual Art Direction review, with explicit owner approval. Code may assist only with validation and technical exports, never with creative layout.
+
+
+## Mandatory SSOT communication gate — owner reaffirmation 2026-10-17
+Read SSOT §12 before ANY infographic wireframe or image request. Each portfolio case must start with a grounded problem/need, then work done, evidence-qualified outcome, organizational benefit. The cooperative receipt-processing tool exists to batch-place logo, cooperative manager signature and text on hundreds of members' receipts, **not** to analyze data; owner-confirmed >๒๐๐ pages in <=๑ minute. Never silently ignore this distinction. Correct conflicting old visual rules by latest owner direction, notably the optional dashed empty logo frame. All draft outputs must pass the hard-stop checklist in SSOT §12.
