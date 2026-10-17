@@ -12,3 +12,10 @@
 **ลำดับอำนาจ:** คำยืนยันล่าสุดของเจ้าของผลงาน → หลักฐานต้นฉบับ/แบบประเมินทางการ → SSOT และ DOCUMENT-FIRST-GOVERNANCE → เอกสาร Word ฉบับปรับโครงสร้าง → ฉบับเก่า (ไม่คืนข้อความที่เจ้าของแก้แล้ว)
 
 **Hard stop:** ไม่แก้ไฟล์ Word ต้นฉบับบน Drive; ไม่ประดิษฐ์ผลงาน ภาพหลักฐาน สถิติ หรือรางวัล; ไม่เรียกการศึกษาว่าใช้งานจริง; ต้นฉบับสุดท้ายต้องได้รับการตรวจและเห็นชอบจากเจ้าของ
+
+## Audit update — 2026-10-17 (PROPOSED)
+- [Audience & Message Architecture](audience-and-message-architecture.md)
+- [Book Architecture Proposal](book-architecture-proposal.md)
+- [Chapter Message Map](chapter-message-map.md)
+- [Production Readiness Gates](production-readiness-gates.md)
+**Use:** Read these after the governance documents and before preparing a Word Master. The new book architecture supersedes the older *proposal* in docs/document-structure.md for planning purposes, but does not supersede the mandatory headings or owner-approved facts. Nothing has yet been approved as a finished book.
