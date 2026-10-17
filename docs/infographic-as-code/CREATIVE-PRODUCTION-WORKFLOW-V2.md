@@ -1,3 +1,5 @@
+> **Primary governance:** [`../DOCUMENT-FIRST-GOVERNANCE.md`](../DOCUMENT-FIRST-GOVERNANCE.md). This workflow is subordinate to approved documentation. Design-as-Code is cancelled; AI visual direction is creative, not code-authored.
+
 # MT-Portfolio — Creative Production Workflow v2
 
 ## Decision
