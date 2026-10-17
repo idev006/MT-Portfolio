@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.1.0",
+  "schema_version": "1.2.0",
   "status": "DESIGN_APPROVED_WITH_AI_ILLUSTRATION_POLICY_FINAL_PENDING_QA",
   "wireframe": "user-approved wireframe v1; visually compare with original before release",
   "page": {
@@ -50,6 +50,13 @@
       "name_and_position": true,
       "portrait_placeholder": "height:width 4:3, unfilled",
       "logo_placeholder": "none"
+    },
+    "guidance_not_fixed": {
+      "header_percent": true,
+      "content_target_percent": true,
+      "footer_percent": true,
+      "case_visual_count": true,
+      "master_grid": true
     }
   },
   "assets": {
@@ -231,5 +238,37 @@
     "logo": "Do not show any unit logo or logo placeholder; supersedes prior dashed-square requirement",
     "numerals": "Thai numerals in all visible text except explicitly owner-required organization name ตำรวจภูธรภาค 6",
     "title_lock_approved": true
+  },
+  "production_method": {
+    "policy": "ART_DIRECTOR_LED_HYBRID",
+    "content_integrity": "Content lock and evidence rules immutable unless owner approves",
+    "art_direction": "Composition, visual hierarchy, scale, crops, visual rhythm, layout motifs and page differentiation decided per page by art direction; not by repetitive pre-coded card functions",
+    "code_role": "Data validation, exact copy proof, asset provenance, font shaping, image compositing, reproducible exports and technical QA; no mandated card layout",
+    "legacy_renderer": "make_portfolio.py output is historical DRAFT only; do not reuse as approved artwork or default design engine",
+    "ai_role": "Conceptual illustrations/decorative imagery only and clearly distinguished from genuine evidence; use real typeset Thai text",
+    "source_of_truth": "content-lock.json for approved copy; design-contract for constraints; evidence-register for evidence status",
+    "review": "Professional visual review and owner approval required"
+  },
+  "asset_reconciliation": {
+    "latest_received": [
+      "1000020850.png",
+      "1000020857.png",
+      "1000020742.jpg",
+      "1000020739.jpg"
+    ],
+    "older_building_names": [
+      "1000020746.jpg",
+      "1000020747.jpg"
+    ],
+    "instruction": "Use latest actual owner-uploaded assets after verifying bytes and hash; do not silently alias older names to new names; register origins and avoid simulating evidence"
+  },
+  "release_rules": {
+    "no_final_without_owner_visual_approval": true,
+    "no_fake_metrics": true,
+    "no_fake_screenshots": true,
+    "no_fake_portraits": true,
+    "no_logos": true,
+    "page_count": 3,
+    "independent_a4_png": true
   }
 }
