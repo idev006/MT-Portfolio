@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "document": "ส่วนที่ ๒ : บันทึกสรุปผลการปฏิบัติงาน",
-  "status": "DRAFT_REQUIRES_APPROVAL",
+  "document": "สรุปผลการปฏิบัติราชการ",
+  "status": "DRAFT_EVIDENCE_REVIEW_PENDING",
   "numeric_script": "thai",
   "subject": {
     "name": "ร้อยตำรวจเอก จิรัฎฐ์ธรณ์ จิตศิริ",
@@ -12,7 +12,7 @@
   "pages": [
     {
       "id": "P1",
-      "heading": "จากปัญหางานจริง สู่การพัฒนาวิธีทำงาน",
+      "heading": "พัฒนาระบบงานและลดงานซ้ำ",
       "purpose": "ตัวตน วิธีคิด และผลงานเด่น",
       "items": [
         {
@@ -37,20 +37,13 @@
           "evidence": "คำยืนยันโดยตรงของเจ้าของผลงานในบทสนทนาปัจจุบัน; ควรแนบหลักฐานทดสอบหรือภาพการทำงานประกอบ",
           "status": "OWNER_CONFIRMED_AWAITING_SUPPORTING_ARTIFACT",
           "owner_confirmation": "ผู้รับการประเมินยืนยันผลการปฏิบัติจริง: เอกสารมากกว่า ๒๐๐ หน้า ภายในไม่เกิน ๑ นาที"
-        },
-        {
-          "id": "P1-DASH",
-          "heading": "ผลงานเด่น — Dashboard ๑๙๑",
-          "text": "เตรียมและจัดโครงสร้างข้อมูลเพื่อแสดงผลสำหรับการติดตามและวิเคราะห์",
-          "evidence": "docs/drafts/executive-summary-3-pages.md",
-          "status": "verify_project_evidence"
         }
       ],
       "closing": "เห็นปัญหา → คิดเป็นระบบ → ทำให้เกิดผล"
     },
     {
       "id": "P2",
-      "heading": "จากข้อมูลและระบบ สู่การกำกับและการตัดสินใจ",
+      "heading": "ใช้ข้อมูลสนับสนุนการกำกับ วางแผน และตัดสินใจ",
       "purpose": "แสดงบทบาทและประโยชน์จากภารกิจจริง",
       "items": [
         {
@@ -97,7 +90,7 @@
     },
     {
       "id": "P3",
-      "heading": "พัฒนางาน พัฒนาคน และพัฒนาตนเองอย่างต่อเนื่อง",
+      "heading": "พัฒนาคน พัฒนางาน และพัฒนาตนเองอย่างต่อเนื่อง",
       "purpose": "ทีมงาน การเรียนรู้ งานต้นแบบ และคุณธรรมจริยธรรม",
       "items": [
         {
@@ -151,5 +144,18 @@
     "content_lock_approved": false,
     "approved_by": null,
     "approved_at": null
+  },
+  "document_titles": {
+    "main_title": "สรุปผลการปฏิบัติราชการ",
+    "subtitle": "ประกอบการพิจารณาแต่งตั้งข้าราชการตำรวจให้ดำรงตำแหน่งสูงขึ้น วาระประจำปี ๒๕๖๙",
+    "title_status": "OWNER_APPROVED"
+  },
+  "source_reconciliation": {
+    "date": "2026-10-17",
+    "dashboard_191": "P2 only; P1 is report processor",
+    "radio": "existing dataset reporting only; no new database and no disposal",
+    "owner_metrics": "P1-191 and P1-COOP owner confirmed; supporting artifacts not yet reviewed",
+    "source_priority": "approved titles/design contract > owner factual corrections > content-lock > old narrative drafts",
+    "original_pdf_note": "Existing official-format PDF examined for name/position and report context; do not expose private identifiers"
   }
 }
