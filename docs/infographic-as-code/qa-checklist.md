@@ -16,8 +16,8 @@
 - [ ] Headings use icons, not numbering
 - [ ] Official portrait placeholder height:width ๔:๓
 - [ ] Logo placeholder thin dashed; no logo generated
-- [ ] Statue/building from approved user attachments only
-- [ ] No synthetic evidence imagery
+- [ ] Statue/building: original user photos or owner-approved AI conceptual illustrations inspired by them; label illustrations appropriately
+- [ ] AI illustrations are not misrepresented as authentic documentary evidence
 - [ ] Legible at ๑๐๐% A4 print size; no clipping or overflow
 - [ ] Navy/gold/silver/white coherent across pages
 - [ ] Room for any required official signatures/certification
@@ -33,7 +33,7 @@
 - [ ] Text remains readable with whitespace; visuals never displace required factual copy
 
 ## Gate C: Production (mandatory)
-- [ ] Text is typeset with actual Thai font; not AI-painted
+- [ ] Text is typeset with actual Thai font; not AI-painted; no missing-glyph squares/tofu in name, rank, position, titles, or body
 - [ ] Exact text comparison against approved content-lock
 - [ ] Raster dimensions checked for all ๓ files
 - [ ] PDF pages counted and inspected visually
@@ -49,3 +49,10 @@
 - Compare rendered text extraction against approved strings.
 - Verify image references and aspect ratios; detect missing files.
 - Generate a review report with pass/fail/unknown and evidence references.
+
+## Owner-approved illustration and identity gates (2026-10-17)
+- [ ] AI conceptual imagery may follow the uploaded reference composition without exact matching; do not treat it as a genuine evidence photo.
+- [ ] Page 1 displays exact name/rank/position with independently proofread Thai glyphs.
+- [ ] Page 1 has an unfilled vertical portrait placeholder (height:width = 4:3).
+- [ ] All pages that require a unit logo have an unfilled square with thin dashed outline.
+- [ ] No missing-glyph squares or corrupted Thai text anywhere; block FINAL on any occurrence.
