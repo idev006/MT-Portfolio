@@ -46,3 +46,10 @@
 
 ## Ready-to-paste opening prompt
 > เปิด Repository `idev006/MT-Portfolio` และอ่าน `docs/handoff/START-HERE-NEXT-CHAT.md` ก่อน ตามด้วย Content Lock, Design Contract, Evidence Register และ QA Checklist จงสร้าง Infographic ระดับ Production Grade จำนวน ๓ หน้า A4 แนวตั้ง แยกเป็น ๓ ภาพ แสดงภาพจริงในแชท ใช้ข้อความล็อกตามเอกสารและคำยืนยันล่าสุดโดยไม่สร้างข้ออ้างเพิ่ม เน้น Visual Storytelling และ Editorial Design ระดับผู้บริหาร ใช้ Thai typesetting จริง ห้ามใช้ภาพ triptych เก่าหรือภาพ/ตัวเลข AI ที่แต่งขึ้น ตรวจ QC ก่อนแสดง และรายงานสิ่งที่ยังไม่ผ่านการตรวจหลักฐานอย่างตรงไปตรงมา
+
+## Production method change — 2026-10-17
+- Art-director-led hybrid workflow replaces fixed Python card-layout generation.
+- Retain evidence verification, locked factual copy, actual Thai typesetting and automated preflight/export checks.
+- Layout positions, image crops, negative space, and typography hierarchy are creative decisions per page; design percentages are guidance, not restrictive templates.
+- Previous `make_portfolio.py` and its renderings are retained as rejected/historical drafts, never promoted to FINAL.
+- Actual accessible owner-uploaded images `1000020850.png`, `1000020857.png`, `1000020742.jpg`, `1000020739.jpg` require provenance/hash verification before export. Older `.jpg` building names remain unresolved aliases.
