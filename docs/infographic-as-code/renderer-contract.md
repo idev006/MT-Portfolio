@@ -38,3 +38,12 @@
 
 ## Reusable AI instruction
 Read the project's SSOT, the three-page narrative, and all files in `docs/infographic-as-code/`. Do not write new factual copy. Treat the content lock as **pending** until explicitly approved. Generate only an accurately labeled draft preview if evidence or approvals are outstanding. Use document-first typography, three A4 portrait pages, Thai digits, approved assets, compact headers, icon headings, official portrait placeholder and dashed logo placeholders. Return a QA report listing every unresolved claim.
+
+## Approved strategic content and restrained illustrations (v1.1)
+- The three pages summarize **ผลการปฏิบัติราชการ**, not a technical portfolio or personal CV.
+- Preserve the five thematic groups and their key messages from `design-contract.json`; show each case as ภารกิจ/ปัญหา → บทบาท/การปฏิบัติ → ผลที่เกิดขึ้น → ประโยชน์ต่อราชการ.
+- Use one purposeful visual per case by default; at most two where genuine evidence requires it. Prefer verified actual screenshots/photos, then verified process diagrams, then understated line icons.
+- Balance whitespace, text and visuals by significance; do not force equal-sized grids or overdecorate. No synthetic depictions of police operations, people, awards or app screens.
+- Never shrink or alter locked factual text just to make room for an illustration. If no authentic asset is available, use a neutral icon or a clearly labeled empty placeholder in DRAFT.
+- Repeated cases across pages must be consolidated to avoid wasted space. Ethics awards are not technology achievements; prototypes must be visibly labeled.
+- These strategy/layout instructions are approved by the owner; factual content approval and evidence gates remain pending.
