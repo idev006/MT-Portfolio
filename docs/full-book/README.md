@@ -19,3 +19,6 @@
 - [Chapter Message Map](chapter-message-map.md)
 - [Production Readiness Gates](production-readiness-gates.md)
 **Use:** Read these after the governance documents and before preparing a Word Master. The new book architecture supersedes the older *proposal* in docs/document-structure.md for planning purposes, but does not supersede the mandatory headings or owner-approved facts. Nothing has yet been approved as a finished book.
+
+## Editorial Strategy (2026-10-17)
+- [Audience-first editorial sequencing](editorial-strategy.md) — ความสำคัญต่อการประเมิน ผลสัมฤทธิ์ หลักฐาน บทบาท และความชัดเจนในการสื่อสาร
