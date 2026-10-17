@@ -1,3 +1,5 @@
+> **Active precedence:** `docs/DOCUMENT-FIRST-GOVERNANCE.md` and the latest approved owner directions override contradictory historical guidance below. All project production is document-led; artwork is AI Art Direction-led, not Design-as-Code.
+
 # MT-Portfolio — SSOT
 
 ## 1. Purpose
