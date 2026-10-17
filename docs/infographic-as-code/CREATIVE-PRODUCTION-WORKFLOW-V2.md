@@ -29,3 +29,6 @@ Use **Art Director-led hybrid production**, not a fixed `design-as-code` page re
 
 ## Legacy
 `make_portfolio.py` is **historical renderer only**. Do not remove it, as audit history can aid regression comparison. Never use the previously rejected images or triptych as final artwork.
+
+## Owner cancellation — 2026-10-17 (supersedes hybrid design approach)
+Design-as-Code is **cancelled** as a design/authoring methodology for this three-page project. AI Art Direction governs creative decisions. Do not create or reuse page layouts through Python-drawn sections/cards, programmatic geometry, or template-first generation. Source content and evidence controls remain binding; optional code may only validate facts, file dimensions, font/Thai text, provenance, and export. Generate genuine page artwork and use real Thai typesetting without fabricated evidence. The previous hybrid method is historical only.
