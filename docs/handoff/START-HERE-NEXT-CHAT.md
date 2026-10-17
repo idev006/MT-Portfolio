@@ -4,7 +4,7 @@
 **Current objective:** Produce three **separate, genuine production-grade** Thai executive editorial infographics (A4 portrait) for the police promotion dossier, ๒๕๖๙. Owner has rejected the earlier output as **DRAFT**, not production. Do not call it FINAL until explicit owner visual approval, proofread and evidence gates.
 
 ## First actions in a fresh chat
-1. Read this file, then `README.md`, `docs/SSOT.md`, `docs/infographic-as-code/content-lock.json`, `docs/infographic-as-code/design-contract.json`, `docs/infographic-as-code/qa-checklist.md`, `docs/infographic-as-code/evidence-register.md`, and `docs/handoff/PRODUCTION-LESSONS-AND-RELEASE-GATES.md`.
+1. Read this file, then `docs/infographic-as-code/CREATIVE-PRODUCTION-WORKFLOW-V2.md`, `README.md`, `docs/SSOT.md`, `docs/infographic-as-code/content-lock.json`, `docs/infographic-as-code/design-contract.json`, `docs/infographic-as-code/qa-checklist.md`, `docs/infographic-as-code/evidence-register.md`, and `docs/handoff/PRODUCTION-LESSONS-AND-RELEASE-GATES.md`.
 2. Treat the **latest owner's corrections in content-lock** as authoritative over older narrative drafts or contradictory legacy production guides. Do not silently revert them.
 3. Reconfirm available real photo/evidence files and provenance; repository paths are not proof the files are accessible in the new chat. Ask for re-upload only for actually missing critical assets.
 4. Plan an art-directed, visually rich but **factually conservative** editorial layout; typeset all Thai text with actual font and proofread.
