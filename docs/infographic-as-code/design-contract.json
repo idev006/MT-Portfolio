@@ -74,18 +74,25 @@
       "prohibited": "Do not present AI output as authentic award, police action, operational screenshot, official portrait, or documentary evidence"
     },
     "background_photographs": {
-      "policy": "Do not use buildings, meeting halls, statues, monuments, or landmarks depicted in the user's latest screenshot (1000021045.jpg); screenshot is negative example, not a source image. Do not substitute web-search example images. Use only other specifically owner-approved imagery if any.",
-      "negative_reference": "1000021045.jpg",
-      "prohibited_subjects": [
-        "buildings shown in screenshot",
-        "monuments and statues shown in screenshot",
-        "unrelated stock buildings or monuments"
+      "owner_approved": true,
+      "approved_files": [
+        "1000020746.jpg",
+        "1000020747.jpg",
+        "1000020742.jpg",
+        "1000020739.jpg"
       ],
-      "requires_owner_approval_for_location_imagery": true
+      "roles": {
+        "1000020746.jpg": "owner-supplied evening meeting-hall exterior",
+        "1000020747.jpg": "owner-supplied daytime meeting-hall exterior",
+        "1000020742.jpg": "owner-supplied close-up monument photo",
+        "1000020739.jpg": "owner-supplied wide ceremonial monument photo"
+      },
+      "policy": "These four directly attached originals are explicitly authorized as design ingredients. Prior screenshot 1000021045.jpg remains a negative example; its unrelated search-result pictures are forbidden. Do not replace approved originals with search images. Use subtly as background/header/footer and protect Thai text readability.",
+      "no_logo": true
     },
     "negative_reference_policy": {
       "screenshot": "1000021045.jpg",
-      "instruction": "The screenshot shows incorrect example buildings/monuments; none may appear in the deliverable",
+      "instruction": "Only the unrelated example/search images depicted in the screenshot are prohibited; the four directly uploaded originals are approved",
       "do_not_use_as_source": true
     }
   },
