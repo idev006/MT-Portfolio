@@ -22,6 +22,16 @@
 - [ ] Navy/gold/silver/white coherent across pages
 - [ ] Room for any required official signatures/certification
 
+## Gate B2: Strategic narrative and illustrations (mandatory)
+- [ ] All five agreed thematic groups represented across the three pages with their page-level key messages
+- [ ] Every highlighted case explains the task/problem, actual role/action, actual result and benefit to government service
+- [ ] Real operational outcomes take priority over a list of skills, software, courses or speculative future work
+- [ ] No unnecessary duplicate case between pages
+- [ ] Each case has a restrained purposeful visual (normally one; no more than two), or a simple icon when verified visual evidence is unavailable
+- [ ] Genuine evidence images have a provenance record and caption; icons/diagrams cannot be mistaken for evidence
+- [ ] No oversized decorative images, cluttered photo grids, fabricated screenshots, or AI-created incident imagery
+- [ ] Text remains readable with whitespace; visuals never displace required factual copy
+
 ## Gate C: Production (mandatory)
 - [ ] Text is typeset with actual Thai font; not AI-painted
 - [ ] Exact text comparison against approved content-lock
