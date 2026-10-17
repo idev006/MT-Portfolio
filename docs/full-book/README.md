@@ -27,3 +27,6 @@
 - [Detailed table of contents (draft)](detailed-table-of-contents.md) — สารบัญย่อยบท ๑–๑๓ และส่วนต้น/ท้าย
 - [Chapter content and visual plan (draft)](chapter-content-and-visual-plan.md) — mapping บท→ผลงาน→หลักฐาน→ภาพ→QC
 ทั้งสองฉบับเป็นร่างเพื่อพิจารณา ไม่ใช่สารบัญหรือ Word Master ที่อนุมัติแล้ว. ยืนยันการจัดกลุ่มเฉพาะข้อ ๑๐–๑๒ ใต้ “การเข้าร่วมกิจกรรม”; ข้อ ๑๓ แยก.
+
+## Content mind map
+- [Mind Map Architecture](mind-map-architecture.md) — แผนผังสามระดับ Book / Chapter / Evidence ใช้ตรวจหัวข้อบังคับ ความสัมพันธ์ข้ามบท และหลักฐาน ไม่เปลี่ยนลำดับหัวข้อบังคับ
