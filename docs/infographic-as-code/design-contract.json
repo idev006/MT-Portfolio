@@ -240,14 +240,15 @@
     "title_lock_approved": true
   },
   "production_method": {
-    "policy": "ART_DIRECTOR_LED_HYBRID",
+    "policy": "AI_ART_DIRECTION_FIRST_NO_DESIGN_AS_CODE",
     "content_integrity": "Content lock and evidence rules immutable unless owner approves",
-    "art_direction": "Composition, visual hierarchy, scale, crops, visual rhythm, layout motifs and page differentiation decided per page by art direction; not by repetitive pre-coded card functions",
-    "code_role": "Data validation, exact copy proof, asset provenance, font shaping, image compositing, reproducible exports and technical QA; no mandated card layout",
-    "legacy_renderer": "make_portfolio.py output is historical DRAFT only; do not reuse as approved artwork or default design engine",
+    "art_direction": "AI-led visual concept, composition and art direction; no fixed renderer, card templates or procedural layout system",
+    "code_role": "Optional auxiliary validation only: content integrity, evidence checks, typography verification, export preflight and hashes; never a required image/layout authoring method",
+    "legacy_renderer": "All existing Python page-generating layouts, including make_portfolio.py and portfolio_v2.py, are retired from active art production. Retain files as historical drafts/audit, not templates.",
     "ai_role": "Conceptual illustrations/decorative imagery only and clearly distinguished from genuine evidence; use real typeset Thai text",
     "source_of_truth": "content-lock.json for approved copy; design-contract for constraints; evidence-register for evidence status",
-    "review": "Professional visual review and owner approval required"
+    "review": "Image quality judged visually, including typography and factual fidelity, before production candidacy",
+    "decision": "Owner cancelled Design-as-Code methodology. This supersedes previous hybrid-policy language for creative rendering."
   },
   "asset_reconciliation": {
     "latest_received": [
