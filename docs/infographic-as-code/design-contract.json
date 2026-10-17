@@ -38,8 +38,9 @@
       "no_synthetic_person": true
     },
     "logo": {
-      "placeholder": "thin dashed border",
-      "actual_logo": false
+      "placeholder": "none",
+      "actual_logo": false,
+      "reason": "Owner explicitly requests no unit logo (2026-10-17)"
     },
     "signature": {
       "reserve_area": true,
@@ -48,7 +49,7 @@
     "page1_identity": {
       "name_and_position": true,
       "portrait_placeholder": "height:width 4:3, unfilled",
-      "logo_placeholder": "thin dashed unfilled square in header"
+      "logo_placeholder": "none"
     }
   },
   "assets": {
@@ -71,6 +72,18 @@
       "scope": "decorative, conceptual, thematic illustrations inspired by references; exact visual fidelity not required",
       "label": "ภาพประกอบ",
       "prohibited": "Do not present AI output as authentic award, police action, operational screenshot, official portrait, or documentary evidence"
+    },
+    "background_photographs": {
+      "owner_supplied": [
+        "1000020850.png",
+        "1000020857.png",
+        "1000020742.jpg",
+        "1000020739.jpg"
+      ],
+      "policy": "Use as source images for subtle background/header/footer compositions; crop and darken/soften only as needed to maintain legibility",
+      "building": "1000020850.png daytime; 1000020857.png evening",
+      "statue": "1000020742.jpg close-up; 1000020739.jpg wide ceremonial scene",
+      "no_synthetic_evidence": true
     }
   },
   "typography": {
@@ -95,7 +108,9 @@
       "evidence_review",
       "asset_manifest",
       "hashes"
-    ]
+    ],
+    "page_delivery": "three independent portrait PNG files; do not create a single triptych image",
+    "resolution_policy": "A4 2480x3508 px minimum, 4K-8K-class output if supported; verify pixel dimensions"
   },
   "presentation_strategy": {
     "objective": "สรุปผลการปฏิบัติราชการเพื่อประกอบการพิจารณาแต่งตั้งข้าราชการตำรวจ ไม่ใช่ประวัติทักษะหรือรายการโปรแกรม",
@@ -203,7 +218,7 @@
       }
     ],
     "key_message_policy": "Key message is not subtitle; use as distinct supporting line on page one",
-    "logo": "empty unfilled square dashed placeholder, no generated unit logo",
+    "logo": "Do not show any unit logo or logo placeholder; supersedes prior dashed-square requirement",
     "numerals": "Thai numerals in all visible text except explicitly owner-required organization name ตำรวจภูธรภาค 6",
     "title_lock_approved": true
   }
