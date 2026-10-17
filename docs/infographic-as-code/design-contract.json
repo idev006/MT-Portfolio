@@ -74,16 +74,19 @@
       "prohibited": "Do not present AI output as authentic award, police action, operational screenshot, official portrait, or documentary evidence"
     },
     "background_photographs": {
-      "owner_supplied": [
-        "1000020850.png",
-        "1000020857.png",
-        "1000020742.jpg",
-        "1000020739.jpg"
+      "policy": "Do not use buildings, meeting halls, statues, monuments, or landmarks depicted in the user's latest screenshot (1000021045.jpg); screenshot is negative example, not a source image. Do not substitute web-search example images. Use only other specifically owner-approved imagery if any.",
+      "negative_reference": "1000021045.jpg",
+      "prohibited_subjects": [
+        "buildings shown in screenshot",
+        "monuments and statues shown in screenshot",
+        "unrelated stock buildings or monuments"
       ],
-      "policy": "Use as source images for subtle background/header/footer compositions; crop and darken/soften only as needed to maintain legibility",
-      "building": "1000020850.png daytime; 1000020857.png evening",
-      "statue": "1000020742.jpg close-up; 1000020739.jpg wide ceremonial scene",
-      "no_synthetic_evidence": true
+      "requires_owner_approval_for_location_imagery": true
+    },
+    "negative_reference_policy": {
+      "screenshot": "1000021045.jpg",
+      "instruction": "The screenshot shows incorrect example buildings/monuments; none may appear in the deliverable",
+      "do_not_use_as_source": true
     }
   },
   "typography": {
