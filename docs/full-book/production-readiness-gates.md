@@ -22,3 +22,9 @@
 - [ ] ภาพจริงไม่ถูกสร้างใหม่เป็น screenshot หลักฐานปลอม
 - [ ] ไม่แก้เอกสารต้นฉบับ Google Drive ใด ๆ
 - [ ] Review โดยเจ้าของก่อนประกาศ FINAL
+
+## Audit update (2026-10-17)
+- Word Production Specification ถูกบันทึกแล้ว: [word-production-spec.md](word-production-spec.md). ข้อกำหนดสไตล์ไม่เท่ากับการผ่าน G5: ยังต้องสร้างและ render Word Master จริง
+- ตรวจการเชื่อมโยง: [traceability-and-audit.md](traceability-and-audit.md). ผ่านระดับการออกแบบ แต่ claim→หลักฐาน→ภาพยังไม่ครบ
+- การจัดหมวดที่ได้รับการยืนยัน: **๑๐–๑๒** เท่านั้นเป็นหมวด “การเข้าร่วมกิจกรรม”; **๑๓** แยก
+- ห้ามแก้ต้นฉบับบน Google Drive; ไฟล์ที่สร้างใหม่ให้จัดเก็บใน GPT-WORK หลังยืนยันวิธีอัปโหลดสำเร็จ
