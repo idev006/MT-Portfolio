@@ -69,3 +69,11 @@
 - [ ] Do not use unrelated internet image search results as substitutes for the owner's actual locations.
 - [ ] No unit logo or logo placeholder.
 - [ ] Any actual place-related imagery must have explicit owner approval for the selected source; otherwise use abstract, non-location imagery.
+
+## Art-direction release gate (2026-10-17 revision)
+- [ ] Creative composition is bespoke to each page, not repeated equal-size cards or fixed-layout renderer.
+- [ ] Page 1 uses editorial metric hierarchy; Page 2 uses differentiated case mosaic with grounded diagrams; Page 3 visually distinguishes actual actions, management concepts, prototypes and honours.
+- [ ] Actual photographic assets have bytes/hash and source verification; do not treat `1000020850.png` and `1000020857.png` as identical to old `.jpg` names without comparing.
+- [ ] Code-based output is allowed only if visual art direction and page-specific editorial layout pass independent review; no requirement to use Python for layout.
+- [ ] Rendered text compared with approved content IDs, without truncation or AI-painted Thai text.
+- [ ] Release remains PRODUCTION CANDIDATE until original evidence, independent proofreading and owner art approval pass.
