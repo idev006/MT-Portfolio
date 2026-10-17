@@ -77,3 +77,13 @@
 - [ ] Code-based output is allowed only if visual art direction and page-specific editorial layout pass independent review; no requirement to use Python for layout.
 - [ ] Rendered text compared with approved content IDs, without truncation or AI-painted Thai text.
 - [ ] Release remains PRODUCTION CANDIDATE until original evidence, independent proofreading and owner art approval pass.
+
+
+## Mandatory hard-stop: Owner communication strategy and actual case descriptions (2026-10-17)
+- [ ] SSOT §12 read and checked; don't start from program names or graphics.
+- [ ] Each featured outcome uses **problem/need → owner action → evidence-qualified result → benefit to the unit**; if problem/benefit is undocumented, mark it as pending and do not invent it.
+- [ ] Cooperative receipt case: hundreds of member receipts need logo + cooperative manager signature + text, formerly applied individually; batch document-marking utility saves time; >๒๐๐ pages within ≤๑ minute as owner-confirmed. Never classify it as data analytics.
+- [ ] Exact “ตำรวจภูธรภาค 6”; owner rank/name/position; main topic + subtopics; compact header/footer; majority area for content; readable to senior assessors in under one minute.
+- [ ] No actual unit logo; use only an empty thin dashed placeholder IF a logo area is reserved per latest owner instruction. No fake portrait; keep required empty 4:3 portrait space on P1.
+- [ ] Check approved case grouping/priority against content lock and latest owner corrections; no extra unverified claims.
+- [ ] Don't call an image complete if any of these checks fails. Correct copy/wireframe before production.
