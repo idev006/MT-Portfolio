@@ -53,3 +53,6 @@
 - Layout positions, image crops, negative space, and typography hierarchy are creative decisions per page; design percentages are guidance, not restrictive templates.
 - Previous `make_portfolio.py` and its renderings are retained as rejected/historical drafts, never promoted to FINAL.
 - Actual accessible owner-uploaded images `1000020850.png`, `1000020857.png`, `1000020742.jpg`, `1000020739.jpg` require provenance/hash verification before export. Older `.jpg` building names remain unresolved aliases.
+
+## Owner decision — design-as-code cancelled
+Do not use procedural art/layout code, Python cards or the earlier "hybrid" layout engine for any of the three pages. AI Art Direction leads creative design. Data/evidence/Thai-language validation and export QA remain mandatory; see the explicit cancellation appended to the creative workflow and current design contract.
